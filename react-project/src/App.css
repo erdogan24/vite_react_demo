@@ -1,4 +1,4 @@
-/* Sayfanın tamamını ortala */
+/* Center the entire page */
 body {
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Login kutusunun genel görünümü */
+/* Login container appearance */
 div {
   background-color: white;
   padding: 40px 50px;
@@ -18,14 +18,14 @@ div {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
-/* Etiketlerin (Username, Password) görünümü */
+/* Labels (Username, Password) style */
 p {
   margin: 0 0 8px 0;
   font-weight: 600;
   color: #333;
 }
 
-/* Giriş kutuları */
+/* Input fields */
 input {
   width: 100%;
   padding: 10px;
@@ -41,7 +41,7 @@ input:focus {
   border-color: #66a6ff;
 }
 
-/* Giriş butonu */
+/* Login button */
 button {
   width: 100%;
   padding: 10px;
