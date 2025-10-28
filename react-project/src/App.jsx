@@ -1,10 +1,11 @@
 import "./App.css";
 import Login from "./Login";
+import Product from "./Product";
 
 function App() {
   return (
     <div>
-      <Login />
+      <Product productName="Shoe" price={300} />
     </div>
   );
 }

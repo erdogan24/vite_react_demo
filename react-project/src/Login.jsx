@@ -12,7 +12,7 @@ function Login() {
         <p>Password</p>
         <input type="text" />
       </div>
-      <button>LogIn</button>
+      <button>Log In</button>
     </div>
   );
 }
